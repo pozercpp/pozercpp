@@ -1,1 +1,1 @@
-Will write here something.. later)
+Ненависть к себе как смысл жизни 
