@@ -19,7 +19,7 @@ competitive programming.
   memory management, Linux
 - **Backend and data:** FastAPI, Django, NumPy, pandas
 - **Tools:** Git, GitHub, GitLab, Docker, CI, code review
-- **Foundations:** algorithms and data structures, operating systems, OOP,
+- **Foundations:** OOP, algorithms and data structures, operating systems,
   software architecture, linear algebra
 
 ## Featured projects
