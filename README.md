@@ -1,4 +1,4 @@
-# Hi, I'm Nikita Chigrin 👋
+# Hi, I'm Nikita 👋
 
 ### C++ Developer focused on systems programming
 
