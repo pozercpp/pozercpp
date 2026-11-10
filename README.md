@@ -15,7 +15,7 @@ competitive programming.
 
 - **Languages:** C++, C, Rust, Python, SQL, Bash
 - **C++ ecosystem:** STL, templates, Boost, CMake, userver
-- **Systems programming:** multithreading, POSIX threads, IPC, named pipes,
+- **Systems programming:** multithreading, POSIX, IPC, named pipes,
   memory management, Linux
 - **Backend and data:** FastAPI, Django, NumPy, pandas
 - **Tools:** Git, GitHub, GitLab, Docker, CI, code review
