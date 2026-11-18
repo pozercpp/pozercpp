@@ -14,7 +14,7 @@ I also enjoy working with algorithms, data structures, and low-level data proces
 - **C++ ecosystem:** STL, templates, Boost, CMake, userver
 - **Concurrency & systems:** multithreading, asynchronous programming, synchronization, POSIX, IPC, memory management, Linux
 - **Algorithms & data:** data compression, indexing, information retrieval, algorithms and data structures
-- **Backend:** FastAPI, Django, NumPy, pandas
+- **Backend:** FastAPI, Django
 - **Tools:** Git, GitHub, GitLab, Docker, CI, code review
 - **Foundations:** operating systems, software architecture, OOP, linear algebra
 
